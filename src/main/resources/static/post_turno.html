@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+</head>
+<body>
+<nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+    <div class="container-fluid" style="padding-left: 80px;">
+        <span class="navbar-text">
+            BackEnd en Aplicación Web para Gestión de Clínica Odontológica - by Juan Carlos Alvarez
+        </span>
+    </div>
+</nav>
+<nav class="navbar bg-body-tertiary border-bottom border-body" data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid" style="padding-left: 80px;">
+            <a class="navbar-brand" href="./index.html">Clínica Odonto</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Gestión pacientes
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./get_pacientes.html">Pacientes</a></li>
+                            <li><a class="dropdown-item" href="./post_paciente.html">Agregar paciente</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Gestión odontólogos
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./get_odontologos.html">Odontólogos disponibles</a></li>
+                            <li><a class="dropdown-item" href="./post_odontologo.html">Agregar odontólogo</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Gestión turnos
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./get_turnos.html">Turnos agendados</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <a class="btn btn-light mx-3" href="http://localhost:8080/logout" id="logout"> Salir </a>
+</nav>
+
+
+<div class="container">
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" href="./get_turnos.html">- Ver turnos registrados</a>
+        </li>
+    </ul>
+    <div id="div_turno_tabla">
+        <hr>
+        <div class="row">
+            <div class="col-sm-12" style="background-color:#CCC8AA; padding:40px; border-radius:5px" >
+                <form id="add_new_turno">
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-between">
+                        <h2 class="text-center">GESTIÓN TURNOS - AGENDAR</h2>
+                        <div class="d-grid gap-1 d-md-block">
+                            <a class="btn btn-primary me-md-2" href="./get_turnos.html" role="button">Cancelar</a>
+                            <button type="submit" class="btn btn-primary me-md-2" id="btn-add-new-turno">Guardar</button>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="paciente">Paciente Id:</label>
+                                <input type="text" class="form-control" id="paciente"
+                                       placeholder="Ingrese el Id"
+                                       name="paciente" required></input>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="odontologo">Odontólogo Id:</label>
+                                <input type="text" class="form-control" id="odontologo"
+                                       placeholder="Ingrese el id"
+                                       name="odontologo" required></input>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="fecha">Fecha de la cita:</label>
+                                <input type="date" class="form-control" id="fecha"
+                                       placeholder="AAAA-MM-DD"
+                                       name="fecha" required></input>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+                <div id="response" style="display:none; margin-top:10px">
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<script type="text/javascript" src="./js/post_turno.js"></script>
+</body>
+</html>

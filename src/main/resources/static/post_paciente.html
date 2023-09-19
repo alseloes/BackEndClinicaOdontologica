@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+</head>
+<body>
+<nav class="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
+    <div class="container-fluid" style="padding-left: 80px;">
+        <span class="navbar-text">
+            BackEnd en Aplicación Web para Gestión de Clínica Odontológica - by Juan Carlos Alvarez
+        </span>
+    </div>
+</nav>
+<nav class="navbar bg-body-tertiary border-bottom border-body" data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid" style="padding-left: 80px;">
+            <a class="navbar-brand" href="./index.html">Clínica Odonto</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Gestión pacientes
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./get_pacientes.html">Pacientes</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Gestión odontólogos
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./get_odontologos.html">Odontólogos disponibles</a></li>
+                            <li><a class="dropdown-item" href="./post_odontologo.html">Agregar odontólogo</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Gestión turnos
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="./get_turnos.html">Turnos agendados</a></li>
+                            <li><a class="dropdown-item" href="./post_turno.html">Agregar turno</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <a class="btn btn-light mx-3" href="http://localhost:8080/logout" id="logout"> Salir </a>
+</nav>
+
+
+<div class="container">
+    <ul class="nav nav-pills">
+        <li class="nav-item">
+            <a class="nav-link" href="./get_pacientes.html">- Ver pacientes registrados</a>
+        </li>
+    </ul>
+    <div id="div_paciente_tabla">
+        <hr>
+        <div class="row">
+            <div class="col-sm-12" style="background-color:#CCC8AA; padding:40px; border-radius:5px" >
+                <form id="add_new_paciente" >
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-between">
+                        <h2 class="text-center"><span style="color: red;">SOLO ADMIN </span>- GESTIÓN PACIENTE: DAR DE ALTA</h2>
+                        <div class="d-grid gap-1 d-md-block">
+                            <a class="btn btn-primary me-md-2" href="./get_pacientes.html" role="button">Cancelar</a>
+                            <button type="submit" class="btn btn-primary me-md-2" id="btn-add-new-paciente">Guardar</button>
+                        </div>
+                    </div>
+                    <hr>
+
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="nombre">Nombre:</label>
+                                <input type="text" class="form-control" id="nombre" placeholder="Ingrese el nombre" name="nombre" required>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="apellido">Apellido:</label>
+                                <input type="text" class="form-control" id="apellido" placeholder="Ingrese el apellido" name="apellido" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="dni">DNI:</label>
+                                <input type="text" class="form-control" id="dni" placeholder="Ingrese el DNI" name="dni" required>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="fechaDeIngreso">Fecha de ingreso:</label>
+                                <input type="date" class="form-control" id="fechaDeIngreso" placeholder="AAAA-MM-DD" name="fechaDeIngreso" required>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group mb-3">
+                                <label class="control-label" for="email">Email:</label>
+                                <input type="text" class="form-control" id="email" placeholder="Ingrese el email" name="email" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <div class="form-group mb-2">
+                                <label class="control-label" for="calle">Calle del domicilio:</label>
+                                <input type="text" class="form-control" id="calle" placeholder="Ingrese la calle" name="calle" required>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-group mb-2">
+                                <label class="control-label" for="numero">Número del domicilio:</label>
+                                <input type="text" class="form-control" id="numero" placeholder="Ingrese el número" name="numero" required>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-group mb-2">
+                                <label class="control-label" for="localidad">Localidad del domicilio:</label>
+                                <input type="text" class="form-control" id="localidad" placeholder="Ingrese la localidad" name="localidad" required>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-group mb-2">
+                                <label class="control-label" for="provincia">Provincia del domicilio:</label>
+                                <input type="text" class="form-control" id="provincia" placeholder="Ingrese la provincia" name="provincia" required>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+                <div id="response" style="display:none; margin-top:10px">
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<script type="text/javascript" src="./js/post_paciente.js"></script>
+</body>
+</html>

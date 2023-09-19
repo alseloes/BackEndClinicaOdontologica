@@ -1,0 +1,546 @@
+[2023-09-07 16:44:26] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-07 16:52:29] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-07 16:55:40] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-07 16:58:25] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 07:51:07] [ INFO ] [PacienteDAO_H2:27] Inicio operación de guardado
+[2023-09-08 07:51:58] [ INFO ] [PacienteDAO_H2:27] Inicio operación de guardado
+[2023-09-08 08:02:26] [ INFO ] [PacienteDAO_H2:27] Inicio operación de guardado
+[2023-09-08 08:02:26] [ INFO ] [DomicilioDAO_H2:29] inicio de las operaciones de guardado de Domicilios
+[2023-09-08 12:03:14] [ INFO ] [PacienteDAO_H2:27] Inicio operación de guardado: Juan Carlos
+[2023-09-08 12:03:14] [ INFO ] [DomicilioDAO_H2:29] inicio de las operaciones de guardado de Ddomicilios :null
+[2023-09-08 12:03:14] [ INFO ] [DomicilioDAO_H2:45] datos enviados a la BDD
+[2023-09-08 12:03:25] [ INFO ] [PacienteDAO_H2:27] Inicio operación de guardado: Juan Carlos
+[2023-09-08 12:03:25] [ INFO ] [DomicilioDAO_H2:29] inicio de las operaciones de guardado de Ddomicilios :null
+[2023-09-08 12:03:25] [ INFO ] [DomicilioDAO_H2:45] datos enviados a la BDD
+[2023-09-08 12:12:56] [ INFO ] [PacienteDAO_H2:27] Inicio operación de guardado: Juan Carlos
+[2023-09-08 12:12:57] [ INFO ] [DomicilioDAO_H2:29] inicio de las operaciones de guardado de Ddomicilios :null
+[2023-09-08 12:12:57] [ INFO ] [DomicilioDAO_H2:45] datos enviados a la BDD
+[2023-09-08 12:21:06] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:21:11] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:21:16] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:37:52] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:42:44] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:42:52] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:45:12] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:49:04] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:50:31] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:50:36] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:51:14] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:51:21] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:51:30] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 12:51:41] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 6
+[2023-09-08 13:15:18] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 13:19:57] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 13:20:07] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 13:20:18] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 13:20:25] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:11:41] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:11:49] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 2
+[2023-09-08 14:12:00] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:12:20] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:12:27] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:27:29] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 2
+[2023-09-08 14:27:33] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:30:12] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:30:17] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:31:18] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 14:31:22] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 16:06:48] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-08 16:14:08] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 2
+[2023-09-09 09:39:27] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 09:39:27] [ INFO ] [OdontologoDAO_H2:174] se buscó la lista de odontologos
+[2023-09-09 09:41:54] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 09:41:54] [ INFO ] [OdontologoDAO_H2:174] se buscó la lista de odontologos
+[2023-09-09 09:42:47] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 09:42:48] [ INFO ] [OdontologoDAO_H2:174] se buscó la lista de odontologos
+[2023-09-09 09:51:47] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 09:51:49] [ INFO ] [OdontologoDAO_H2:174] se buscó la lista de odontologos
+[2023-09-09 09:51:50] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 09:51:52] [ INFO ] [OdontologoDAO_H2:174] se buscó la lista de odontologos
+[2023-09-09 09:53:59] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 09:54:00] [ INFO ] [OdontologoDAO_H2:174] se buscó la lista de odontologos
+[2023-09-09 09:54:47] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 09:54:48] [ INFO ] [OdontologoDAO_H2:174] se buscó la lista de odontologos
+[2023-09-09 10:01:31] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 10:01:32] [ INFO ] [OdontologoDAO_H2:173] se buscó la lista de odontologos
+[2023-09-09 10:07:53] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 10:07:53] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologos[]
+[2023-09-09 10:08:39] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 10:08:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-09 10:11:33] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 10:11:33] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@ec27f5a
+[2023-09-09 10:30:23] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 10:30:23] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@62b4618a
+[2023-09-09 10:31:52] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 10:31:52] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@70c1d6b4
+[2023-09-09 14:02:29] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 14:02:29] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1141d457
+[2023-09-09 14:13:02] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 14:13:02] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@10337a83
+[2023-09-09 14:17:37] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 14:17:38] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@198ef338
+[2023-09-09 14:37:22] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 14:37:22] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5bd82dcf
+[2023-09-09 14:42:25] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 14:42:26] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5119594b
+[2023-09-09 14:43:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 14:43:50] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@31d3e065
+[2023-09-09 17:50:54] [ INFO ] [DomicilioDAO_H2:66] Iniciando operanción de búsqueda por id: 1
+[2023-09-09 17:51:38] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 17:51:38] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@532d69e5
+[2023-09-09 19:48:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 19:48:05] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@12fc91b7
+[2023-09-09 19:48:52] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 19:48:52] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@61a2b95c
+[2023-09-09 19:55:30] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 19:55:30] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@61a2b95c
+[2023-09-09 20:06:02] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:06:02] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@306ae95b
+[2023-09-09 20:06:08] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:06:08] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3daf327c
+[2023-09-09 20:23:40] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:23:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@65fc56f4
+[2023-09-09 20:24:56] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:24:56] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@43f45449
+[2023-09-09 20:25:51] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:25:52] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1c1adc41
+[2023-09-09 20:26:17] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:26:18] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@633d82a1
+[2023-09-09 20:33:58] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:33:58] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-09 20:34:14] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:34:14] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-09 20:34:53] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:34:54] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-09 20:39:22] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:39:22] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@569b170
+[2023-09-09 20:39:33] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:39:34] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5f654898
+[2023-09-09 20:42:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-09 20:42:05] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@198ef338
+[2023-09-10 08:57:34] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 08:57:35] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@55ffaaf9
+[2023-09-10 08:58:40] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 08:58:41] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@42a0197a
+[2023-09-10 09:13:35] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 09:13:36] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@eee7b34
+[2023-09-10 09:14:21] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 09:14:21] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2c15bbf1
+[2023-09-10 09:18:08] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 09:18:08] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2bdd1bf9
+[2023-09-10 09:19:50] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 09:19:50] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@70c1d6b4
+[2023-09-10 09:29:10] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 09:29:10] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@411572e9
+[2023-09-10 09:53:06] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 09:53:06] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@7720bb89
+[2023-09-10 10:01:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 10:01:50] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@56ad5b7e
+[2023-09-10 11:42:33] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 11:42:33] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@635c764b
+[2023-09-10 11:46:26] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 11:46:27] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@72bd9b58
+[2023-09-10 11:48:09] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 11:48:10] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1e541407
+[2023-09-10 11:49:23] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 11:49:24] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@558d5b4e
+[2023-09-10 12:11:17] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:11:18] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2084f7c3
+[2023-09-10 12:15:29] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:15:29] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-10 12:15:55] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:15:56] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-10 12:16:00] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:16:00] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-10 12:16:40] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:16:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@38247eb7
+[2023-09-10 12:44:38] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:44:38] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@31d3e065
+[2023-09-10 12:54:39] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:54:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1e541407
+[2023-09-10 12:58:41] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 12:58:42] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@359ef9f4
+[2023-09-10 13:01:57] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:01:59] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1df2fd35
+[2023-09-10 13:08:34] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:08:35] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@411f424f
+[2023-09-10 13:11:47] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:11:48] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@58fc908
+[2023-09-10 13:12:02] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:12:02] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5119594b
+[2023-09-10 13:14:01] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:14:01] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1e10cd78
+[2023-09-10 13:18:40] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:18:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6a5826dc
+[2023-09-10 13:18:44] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:18:44] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5f650392
+[2023-09-10 13:19:00] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:19:00] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2a97fa67
+[2023-09-10 13:20:35] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:20:35] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3d06db22
+[2023-09-10 13:20:51] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:20:51] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@733c14de
+[2023-09-10 13:31:58] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:32:02] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@72a46042
+[2023-09-10 13:38:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 13:38:05] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@7a0ca91a
+[2023-09-10 14:13:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 14:13:49] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1333519f
+[2023-09-10 15:28:39] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 15:28:39] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@63617179
+[2023-09-10 15:33:27] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 15:33:28] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@203de2e7
+[2023-09-10 15:42:23] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 15:42:23] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4bb98087
+[2023-09-10 15:49:32] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 15:49:33] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5103a29a
+[2023-09-10 15:52:22] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 15:52:22] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2ffef7c2
+[2023-09-10 15:59:16] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 15:59:16] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@581b26d5
+[2023-09-10 16:01:57] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:01:57] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6f82b07f
+[2023-09-10 16:13:28] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:13:29] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@536f73f4
+[2023-09-10 16:13:33] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:13:34] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@7d0803ed
+[2023-09-10 16:13:39] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:13:39] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@8c61902
+[2023-09-10 16:15:16] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:15:16] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3d06db22
+[2023-09-10 16:18:29] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:18:30] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@72bd9b58
+[2023-09-10 16:18:32] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:18:32] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5edf8f5c
+[2023-09-10 16:18:37] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:18:37] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6683fc9e
+[2023-09-10 16:22:41] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:22:41] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@c047abe
+[2023-09-10 16:23:34] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:23:34] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4bb98087
+[2023-09-10 16:24:55] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:24:56] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1c4cd5de
+[2023-09-10 16:26:22] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:26:23] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@738a661d
+[2023-09-10 16:34:45] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:34:46] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@90666cb
+[2023-09-10 16:37:52] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:37:52] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@7b8558be
+[2023-09-10 16:46:43] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:46:44] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@43dba912
+[2023-09-10 16:48:23] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:48:23] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3daf327c
+[2023-09-10 16:49:43] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:49:43] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@78da3b04
+[2023-09-10 16:49:51] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:49:51] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6c566b4b
+[2023-09-10 16:51:36] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:51:36] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-10 16:51:37] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:51:37] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-10 16:51:55] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 16:51:56] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologosnull
+[2023-09-10 17:20:10] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:20:10] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1e541407
+[2023-09-10 17:20:28] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:20:29] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5edf8f5c
+[2023-09-10 17:24:01] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:24:02] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@58fc908
+[2023-09-10 17:27:42] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:27:43] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6cbbecb1
+[2023-09-10 17:27:45] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:27:45] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3e58530b
+[2023-09-10 17:28:23] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:28:23] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4ff75c43
+[2023-09-10 17:34:13] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:34:15] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@53eef64c
+[2023-09-10 17:41:36] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:41:36] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 17:41:36] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3a60c239
+[2023-09-10 17:41:36] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5c7c0502
+[2023-09-10 18:08:44] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:08:45] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2bdd1bf9
+[2023-09-10 18:08:57] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:08:57] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@a40f233
+[2023-09-10 18:14:28] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:14:29] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@77b022bc
+[2023-09-10 18:15:23] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:15:24] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2e5b06aa
+[2023-09-10 18:22:36] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:22:37] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@7dfddec5
+[2023-09-10 18:22:40] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:22:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4db46cc6
+[2023-09-10 18:29:51] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:29:52] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@e1ab24b
+[2023-09-10 18:29:55] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:29:56] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@70c1d6b4
+[2023-09-10 18:30:32] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:30:33] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4dea7593
+[2023-09-10 18:30:37] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:30:38] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@51830270
+[2023-09-10 18:30:39] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:30:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6605bcd7
+[2023-09-10 18:30:42] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:30:43] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2485ea34
+[2023-09-10 18:31:04] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:31:04] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3114fed
+[2023-09-10 18:38:42] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:38:43] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1f2c731
+[2023-09-10 18:38:46] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:38:46] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@42a0197a
+[2023-09-10 18:39:14] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:39:14] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2a578ded
+[2023-09-10 18:41:07] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:41:07] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4c405468
+[2023-09-10 18:47:36] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:47:36] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@8a06dc9
+[2023-09-10 18:51:32] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos
+[2023-09-10 18:51:47] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:51:47] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2d70f0c8
+[2023-09-10 18:52:04] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos
+[2023-09-10 18:52:12] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:52:13] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@587a7a8a
+[2023-09-10 18:52:30] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos
+[2023-09-10 18:52:44] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 18:52:44] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5042b139
+[2023-09-10 19:06:27] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:06:27] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6a5826dc
+[2023-09-10 19:06:30] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:06:30] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@672da61c
+[2023-09-10 19:06:37] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:06:37] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@59b0418b
+[2023-09-10 19:06:43] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:06:43] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@229792a1
+[2023-09-10 19:07:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:07:06] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@dad58fe
+[2023-09-10 19:07:16] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:07:16] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3a24eea5
+[2023-09-10 19:07:34] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:07:35] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3db421e4
+[2023-09-10 19:10:56] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:10:58] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4f9f6132
+[2023-09-10 19:14:46] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:14:46] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5edf8f5c
+[2023-09-10 19:14:59] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:14:59] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1e0c6f5d
+[2023-09-10 19:15:34] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:15:34] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@59c7dce3
+[2023-09-10 19:16:01] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:16:01] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@33ffcc89
+[2023-09-10 19:20:03] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:20:08] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5584339f
+[2023-09-10 19:20:32] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:20:33] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1b308f59
+[2023-09-10 19:21:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:21:05] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@587a7a8a
+[2023-09-10 19:31:45] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:31:46] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@452c8dfd
+[2023-09-10 19:31:55] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:31:56] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@70c1d6b4
+[2023-09-10 19:32:07] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: AB536521
+[2023-09-10 19:32:11] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:32:11] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@6ea0fc2c
+[2023-09-10 19:32:19] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:32:19] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@25041023
+[2023-09-10 19:39:51] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:39:51] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@30bf5376
+[2023-09-10 19:40:05] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: AB536521
+[2023-09-10 19:40:05] [ INFO ] [OdontologoDAO_H2:41] datos enviados a la BDD
+[2023-09-10 19:40:06] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:40:07] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5fc47af2
+[2023-09-10 19:43:08] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: 87878778
+[2023-09-10 19:43:08] [ INFO ] [OdontologoDAO_H2:41] datos enviados a la BDD
+[2023-09-10 19:43:20] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: 87878778
+[2023-09-10 19:43:20] [ INFO ] [OdontologoDAO_H2:41] datos enviados a la BDD
+[2023-09-10 19:44:12] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: 87878778
+[2023-09-10 19:44:12] [ INFO ] [OdontologoDAO_H2:41] datos enviados a la BDD
+[2023-09-10 19:44:20] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:44:20] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@29fd0178
+[2023-09-10 19:46:24] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:46:24] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@5119594b
+[2023-09-10 19:50:31] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:50:32] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@4197eec7
+[2023-09-10 19:50:36] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:50:37] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1c8ecb87
+[2023-09-10 19:50:47] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:50:47] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@7134c175
+[2023-09-10 19:51:21] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:51:21] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@63a76f37
+[2023-09-10 19:52:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:52:05] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@1c7e6ece
+[2023-09-10 19:52:12] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:52:13] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@2fca5122
+[2023-09-10 19:52:21] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:52:21] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@7e0c4ffc
+[2023-09-10 19:53:18] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:53:18] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@42a0197a
+[2023-09-10 19:57:26] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:57:26] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@3d32796d
+[2023-09-10 19:57:33] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:57:34] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@66f72ae3
+[2023-09-10 19:57:47] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:57:48] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@23343406
+[2023-09-10 19:57:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 19:57:50] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.model.Odontologo@8a06dc9
+[2023-09-10 21:03:02] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:03:02] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@7c66327
+[2023-09-10 21:03:20] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:03:20] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@56ce5ef2
+[2023-09-10 21:03:47] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: AB536521
+[2023-09-10 21:03:47] [ INFO ] [OdontologoDAO_H2:41] datos enviados a la BDD
+[2023-09-10 21:03:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:03:49] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@6c9a7d4b
+[2023-09-10 21:04:06] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:04:07] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@16538161
+[2023-09-10 21:08:39] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:08:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@52db8c89
+[2023-09-10 21:08:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:08:49] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@47af9310
+[2023-09-10 21:08:59] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:08:59] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@d2c9bf0
+[2023-09-10 21:17:16] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:17:17] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@5d37b7b8
+[2023-09-10 21:18:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:18:05] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@56ce5ef2
+[2023-09-10 21:26:08] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:26:08] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@15457f8
+[2023-09-10 21:46:32] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:46:32] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@3ccd6806
+[2023-09-10 21:46:38] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:46:38] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@7a64ae99
+[2023-09-10 21:46:48] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:46:48] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@a3da0b9
+[2023-09-10 21:49:01] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:49:02] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@12ca03
+[2023-09-10 21:59:32] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:59:32] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@62fbe6e2
+[2023-09-10 21:59:37] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:59:37] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@7c1e252a
+[2023-09-10 21:59:44] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 21:59:44] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@6d9a0fb1
+[2023-09-10 22:04:22] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:04:22] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@1dfd9341
+[2023-09-10 22:04:27] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:04:28] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@646b1073
+[2023-09-10 22:04:43] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:04:43] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@62b59317
+[2023-09-10 22:41:57] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:41:57] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@57f17f8b
+[2023-09-10 22:42:00] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:42:00] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@46e18b58
+[2023-09-10 22:42:04] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:42:04] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@ee63971
+[2023-09-10 22:42:45] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:42:45] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@e4f68d4
+[2023-09-10 22:45:06] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:45:06] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@41c606bf
+[2023-09-10 22:45:26] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:45:26] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@5a529a16
+[2023-09-10 22:45:34] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:45:34] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@259e3c73
+[2023-09-10 22:47:15] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:47:15] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@15141f76
+[2023-09-10 22:47:19] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:47:19] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@52b00c0c
+[2023-09-10 22:48:52] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:48:52] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@794153d5
+[2023-09-10 22:59:33] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 22:59:33] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@51b00998
+[2023-09-10 23:00:05] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:00:06] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@351fe656
+[2023-09-10 23:02:19] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:02:19] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@6ce9403a
+[2023-09-10 23:14:35] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:15:37] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:15:38] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@3136ca16
+[2023-09-10 23:16:00] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:16:00] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@4218c7d2
+[2023-09-10 23:16:31] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:16:44] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:16:55] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:17:00] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:17:14] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:17:14] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@3170006b
+[2023-09-10 23:17:50] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:17:50] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@523f21bd
+[2023-09-10 23:19:25] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:19:25] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@247c6543
+[2023-09-10 23:19:34] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:19:34] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@7cb87cf
+[2023-09-10 23:20:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:20:49] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@6f3d9782
+[2023-09-10 23:21:00] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:21:00] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@139072cf
+[2023-09-10 23:21:14] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:21:22] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:21:26] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:22:35] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:22:42] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:22:46] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 1
+[2023-09-10 23:26:07] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:26:08] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@367ef380
+[2023-09-10 23:26:17] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:26:17] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@1c955d7f
+[2023-09-10 23:26:40] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:26:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@76546dc2
+[2023-09-10 23:26:53] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:26:54] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@d2c9bf0
+[2023-09-10 23:27:12] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:27:12] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@14a77964
+[2023-09-10 23:27:25] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: AB536521
+[2023-09-10 23:27:25] [ INFO ] [OdontologoDAO_H2:41] datos enviados a la BDD
+[2023-09-10 23:27:28] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:27:28] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@669d5a3c
+[2023-09-10 23:27:47] [ INFO ] [OdontologoDAO_H2:25] inicio de las operaciones de guardado de Odontólogos: BABAkkfñsd
+[2023-09-10 23:27:47] [ INFO ] [OdontologoDAO_H2:41] datos enviados a la BDD
+[2023-09-10 23:27:49] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:27:50] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@6eb1d9ae
+[2023-09-10 23:28:28] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:28:28] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@6d782d67
+[2023-09-10 23:30:07] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:30:07] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@15fa1ed5
+[2023-09-10 23:30:11] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:30:12] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@52b00c0c
+[2023-09-10 23:30:15] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:30:16] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@166500b9
+[2023-09-10 23:31:01] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:31:01] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@7e016e12
+[2023-09-10 23:31:06] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:31:06] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@60499b05
+[2023-09-10 23:31:10] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:31:10] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@4e5e833d
+[2023-09-10 23:50:13] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:50:13] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@64184286
+[2023-09-10 23:51:16] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-10 23:51:16] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@398109c2
+[2023-09-11 00:11:51] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-11 00:11:51] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@15b05189
+[2023-09-11 00:19:09] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 00:19:09] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 00:19:15] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 00:19:15] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 00:22:29] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 00:22:29] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 10:58:55] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 10:58:55] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 10:59:00] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 10:59:00] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 10:59:09] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-11 10:59:09] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@9160ba3
+[2023-09-11 10:59:41] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-11 10:59:41] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@1262ad0d
+[2023-09-11 11:01:27] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-11 11:01:27] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@784d6c64
+[2023-09-11 11:04:43] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 11:04:43] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 11:06:59] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 11:06:59] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 11:07:32] [ INFO ] [PacienteDAO_H2:27] Inicio operación de guardado: Juan Carlos
+[2023-09-11 11:07:35] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-11 11:07:35] [ INFO ] [DomicilioDAO_H2:64] Iniciando operanción de búsqueda por id: 6
+[2023-09-12 19:40:28] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-12 19:40:29] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@6ad19cab
+[2023-09-12 19:40:40] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-12 19:40:40] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@31e1003b
+[2023-09-12 19:40:54] [ INFO ] [OdontologoDAO_H2:138] Listando todos los odontologos
+[2023-09-12 19:40:54] [ INFO ] [OdontologoDAO_H2:176] se buscó la lista de odontologoscom.proyectoIntegrador.ClinicaOdontologica.entity.Odontologo@dc1843a
