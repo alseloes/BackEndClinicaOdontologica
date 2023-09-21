@@ -8,11 +8,11 @@
 		<version>2.7.15</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.proyectoIntegrador</groupId>
+	<groupId>com.proyectoBackEnd</groupId>
 	<artifactId>ClinicaOdontologica</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ClinicaOdontologica</name>
-	<description>Proyecto integrador &quot;clínica odontológica&quot; - Dev Juan Carlos Alvarez</description>
+	<description>BackEnd en Aplicación Web &quot;Clínica Odontológica&quot; - Dev Juan Carlos Alvarez</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
