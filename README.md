@@ -17,7 +17,7 @@ Tecnologías BackEnd utilizadas:
 - H2 Database v2.2.220: Sistema de gestión de bases de datos en memoria utilizado para las pruebas y desarrollo.
 - API RESTful:El proyecto sigue las mejores prácticas para crear una API RESTful permitiendo exponer recursos y operaciones a través de una API HTTP, lo que significa que utiliza solicitudes HTTP (GET, POST, PUT, DELETE) que realizan operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en recursos como pacientes, odontólogos y turnos.
 - Spring Security: Empleado para implementar la seguridad y autenticación, el control de acceso basado en roles y cifrado de contraseñas.
-- junit v5.9.3: Se han implementado en las pruebas unitarias en las clases OdontologoServiceTest y PacienteServiceTest, y en las pruebas de integración en IntegracionTurnoTest. Estas pruebas son una práctica de desarrollo orientada a pruebas (Test-Driven Development, TDD) y garantizan la calidad del código.
+- JUnit v5.9.3: Se han implementado en las pruebas unitarias en las clases OdontologoServiceTest y PacienteServiceTest, y en las pruebas de integración en IntegracionTurnoTest. Estas pruebas son una práctica de desarrollo orientada a pruebas (Test-Driven Development, TDD) y garantizan la calidad del código.
 - Lombok: Biblioteca que simplifica la creación de clases Java mediante la generación automática de getters, setters, constructores y otros métodos de utilidad. Ayuda a reducir la cantidad de código boilerplate en las clases de entidad.
 - log4j v1.2.17: Empleado para realizar un seguimiento detallado de eventos y mensajes de registro en el desarrollo de la aplicación (logging).
 
